@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OMAPI Bypass</string>
+    <string name="xposed_desc">Bypass ARA,ARF limit in OMAPI \n USE AT YOUR OWN RISK</string>
+</resources>
